@@ -105,6 +105,19 @@
             <artifactId>scopt_2.11</artifactId>
             <version>3.5.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.typesafe.akka</groupId>
+            <artifactId>akka-actor_2.11</artifactId>
+            <version>2.4.7</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/com.typesafe.akka/akka-http-scala-experimental -->
+        <dependency>
+            <groupId>com.typesafe.akka</groupId>
+            <artifactId>akka-http-scala-experimental_2.11</artifactId>
+            <version>1.0-RC2</version>
+        </dependency>
+
+
 
     </dependencies>
 
