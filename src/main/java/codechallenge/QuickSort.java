@@ -1,3 +1,5 @@
+package codechallenge;
+
 /**
  * Created by muthu on 14/09/2017.
  *  The algorithm takes O(n log n) comparisons to sort n items.

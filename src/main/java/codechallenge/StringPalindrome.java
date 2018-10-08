@@ -1,3 +1,5 @@
+package codechallenge;
+
 import java.util.Arrays;
 
 /**
